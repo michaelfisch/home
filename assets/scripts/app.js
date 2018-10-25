@@ -49,7 +49,7 @@ const Portfolio = function() {
 	}
 
 	function makeWordCloud(words) {
-		$('.teaching-domains').jQCloud(words, {delay: 120});
+		$('.coding-domains').jQCloud(words, {delay: 120});
 	}
 
 	function displayWordCloud() {

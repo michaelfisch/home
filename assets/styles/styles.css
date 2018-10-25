@@ -230,21 +230,21 @@ h1, h2, h3, h4, h5, h6 {
 		color: #fff;
 }
 
-/*** teaching ***/
-#teaching {
+/*** coding ***/
+#coding {
 		padding: 6em 4em 3em;
 }
 
-#teaching h2 {
+#coding h2 {
 		color: #595959;
 }
 
-#teaching .tag-line {
+#coding .tag-line {
 		color: #848282;
 		font-size: 1.4em;
 }
 
-#teaching .teaching-domains {
+#coding .coding-domains {
 		height: 500px;
 		width: auto;
 		margin-top: -4em;
