@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 if($_POST["submit"]) {
 	$recipient="michaeljaredfisch@gmail.com";
 	$subject="Form to email message";
@@ -9,7 +9,8 @@ if($_POST["submit"]) {
 	mail($recipient, $subject, $mailBody, "From: $sender <$senderEmail>");
 	$thankYou="<p>Thank you! Your message hs been sent.</p>";
 }
-?><!DOCTYPE html>
+?> -->
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -36,18 +37,19 @@ if($_POST["submit"]) {
 
 <body>
 	<div class="wrapper">
-		<div id="thin-bar" class="thin-bar">
-				<a class="js-scroll-trigger" href="#thin-bar">Home</a>
+		<header id="top">
+			<div id="home" class="home">
+				<a class="js-scroll-trigger" href="#top">Home</a>
 				<a class="js-scroll-trigger" href="#experience">Experience</a>
 				<a class="js-scroll-trigger" href="#work">My Work</a>
 				<a class="js-scroll-trigger" href="#coding">Code Stack</a>
 				<a class="js-scroll-trigger" href="#footer-cta">Contact Me</a>
-		</div>
+			</div>
+		</header>
 
 		<section id="about">
 			<div class="row">
 				<div class="small-12 large-8 large-offset-2 columns text-center">
-					<img class="img-circle" src="assets/images/adhoc-profile-mike.jpg" alt="headshot">
 					<div class="details">
 						<h2>Hi, I'm Mike. I...<br> <span id="writing-text"><span></h2>
 					</div>
@@ -56,6 +58,7 @@ if($_POST["submit"]) {
 			<div class="row">
 				<div class="small-12 column">
 					<div class="cta text-center">
+						<img class="img-circle" src="assets/images/adhoc-profile-mike.jpg" alt="headshot">
 						<a class="my-button cta-button expand form-button" href="#footer-cta">Get In Touch</a>
 					</div>
 				</div>
@@ -64,11 +67,13 @@ if($_POST["submit"]) {
 						<a target="_blank" href="https://github.com/GiantSlayer1913">
 							<i class="fa fa-github-alt fa-2x"></i>
 						</a>
+						<a target="_blank" href="https://www.linkedin.com/in/michaelfisch">
+							<i class="fi-social-linkedin"></i>
+						</a>
 						<!-- <a href="http://www.youtube.com/whatsdev"><i class="fa fa-youtube fa-2x"></i></a> -->
 					</div>
 				</div>
 			</div>
-
 		</section>
 
 
@@ -81,7 +86,8 @@ if($_POST["submit"]) {
 				</div>
 			</div>
 			<div class="row">
-				<div class="small-12 medium-4 columns text-center experience-topics">
+				<!-- Front-end -->
+				<div class="small-12 medium-3 columns text-center experience-topics">
 					<i class="fi-laptop"></i>
 					<h3>Front-end</h3>
 					<ul>
@@ -96,25 +102,25 @@ if($_POST["submit"]) {
 						<li>Grunt</li>
 						<li>Ember</li>
 						<li>Express</li>
-						<li>React</li>
 					</ul>
 				</div>
-				<div class="small-12 medium-4 columns text-center experience-topics">
+				<!-- Back-end -->
+				<div class="small-12 medium-3 columns text-center experience-topics">
 					<i class="fi-database"></i>
 					<h3>Back-end</h3>
 					<ul>
 						<li>SQL</li>
-						<li>Mongo</li>
+						<li>Mongo DB</li>
 						<li>Ruby | Rails</li>
 						<li>Restful Web Services</li>
-						<li>Flask | Python</li>
 					</ul>
 				</div>
-				<div class="small-12 medium-4 columns text-center experience-topics">
+				<!-- Tools -->
+				<div class="small-12 medium-3 columns text-center experience-topics">
 					<i class="fi-star"></i>
 					<h3>Tools</h3>
 					<ul>
-						<li>Git | Version control</li>
+						<li>Git | Terminal</li>
 						<li>Atom</li>
 						<li>Heroku</li>
 						<li>AWS</li>
@@ -124,6 +130,18 @@ if($_POST["submit"]) {
 						<li>Slack</li>
 						<li>NPM</li>
 					</ul>
+				</div>
+				<!-- Learning -->
+				<div class="small-12 medium-3 columns text-center experience-topics">
+					<i class="fi-book"></i>
+					<h3>Learning</h3>
+					<ul>
+						<li>React</li>
+						<li>Angular</li>
+						<li>Java</li>
+						<li>Python</li>
+						<li>Meteor</li>
+						</ul>
 				</div>
 			</div>
 
@@ -215,7 +233,7 @@ if($_POST["submit"]) {
 			<h2 class="text-center">Wanna work with me?</h2>
 			<p></p>
 			<div class="row text-center">
-				<div class="small-12 medium-8 medium-offset-2 columns">
+				<!-- <div class="small-12 medium-8 medium-offset-2 columns">
 					<p class="text-center">You can drop me a quick message in the form below...</p>
 				</div>
 				<div class="form-div small-12 columns">
@@ -229,9 +247,9 @@ if($_POST["submit"]) {
 						<textarea name="message" placeholder="Hi Mike..."></textarea>
 						<input type="submit" name="submit" class="my-button form-button">
 					</form>
-				</div>
+				</div> -->
 				<div class="small-12 columns" id="startButtonDiv">
-					<p class="text-center">...or click below to send a more detailed message...</p>
+					<p class="text-center">Click below to send me a message...</p>
 					<a class="my-button form-button" target="_blank" href="mailto:michaeljaredfisch@gmail.com">Email me</a>
 				</div>
 				<div class="small-12 columns" id="startButtonDiv">
