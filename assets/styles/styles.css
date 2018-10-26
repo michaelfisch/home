@@ -57,7 +57,6 @@ h1, h2, h3, h4, h5, h6 {
 .custombox-content {
 	background: #212332;
 } */
-
 /*** thin bar ***/
 .thin-bar {
 		border-bottom: 5px solid #F33F12;
@@ -304,4 +303,18 @@ h1, h2, h3, h4, h5, h6 {
 		font-family: "Maven pro", sans-serif;
 		font-weight: 500;
 		color: #7d7d7d;
+}
+
+.email {
+		display: inline-block;
+}
+
+.form-div {
+		display: block;
+		text-align: center;
+}
+
+textarea {
+		width: 33rem;
+		height: 6rem;
 }

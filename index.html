@@ -1,3 +1,18 @@
+<?php
+if($_POST["submit"]) {
+	$recipient="michaeljaredfisch@gmail.com";
+	$subject="Form to email message";
+	$sender=$_POST["sender"];
+	$senderEmail=#_POST["senderEmail"];
+	$message=$_POST["message"];
+	$mailBody="Name: $sender\nEmail:
+	$senderEmail\n\n$message";
+	mail($recipient, $subject, $mailBody,
+	"From: $sender <$senderEmail>");
+	$thankYou="<p>Thank you! Your message hs been sent.</p>";
+}
+?>
+
 <!DOCTYPE html>
 <html>
 
@@ -205,12 +220,26 @@
 			<p></p>
 			<div class="row text-center">
 				<div class="small-12 medium-8 medium-offset-2 columns">
-					<p class="text-center">I'm currently available for work.</p>
+					<p class="text-center">You can drop me a quick message in the form below...</p>
+				</div>
+				<div class="form-div small-12 columns">
+					<?=$thankYou ?>
+					<form class="email" method="post" action="contact.php">
+						<label><p>Name:</p></label>
+						<input name="sender">
+						<label><p>Email address:</p></label>
+						<input name="senderEmail">
+						<label><p>Message:</p></label>
+						<textarea name="message" placeholder="Hi Mike..."></textarea>
+						<input type="submit" name="submit" class="my-button form-button">
+					</form>
 				</div>
 				<div class="small-12 columns" id="startButtonDiv">
+					<p class="text-center">...or click below to send a more detailed message...</p>
 					<a class="my-button form-button" target="_blank" href="mailto:michaeljaredfisch@gmail.com">Email me</a>
 				</div>
 				<div class="small-12 columns" id="startButtonDiv">
+					<p class="text-center">...and download my resumé of course!</p>
 					<a class="my-button form-button" target="_blank" href="assets/images/michael-fisch-resume-2019.pdf" download="michael-fisch-resumé">Resumé</a>
 				</div>
 			</div>
