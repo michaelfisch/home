@@ -77,7 +77,7 @@ const Portfolio = function() {
 			// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
 			stringsElement: null,
 			// typing speed
-			typeSpeed: .85,
+			typeSpeed: .5,
 			contentType: 'text',
 			callback: function() {
 				$("#writing-text").css({"color": "#fff", "background-color": "#C8412B"});
