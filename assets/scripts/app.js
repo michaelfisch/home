@@ -5,37 +5,37 @@ const Portfolio = function() {
 				text: "Ruby/Rails",
 				weight: 10
 			}, {
-				text: "css3",
+				text: "CSS3",
 				weight: 12
 			}, {
-				text: "javascript",
+				text: "JavaScript",
 				weight: 12
 			}, {
-				text: "jquery",
-				weight: 8
+				text: "jQuery",
+				weight: 9
 			}, {
 				text: "Git",
 				weight: 15
 			}, {
-				text: "python",
+				text: "Python",
 				weight: 4
 			}, {
-				text: "ember",
-				weight: 9
+				text: "Ember",
+				weight: 4
 			}, {
-				text: "heroku",
+				text: "Heroku",
 				weight: 8
 			}, {
-				text: "html5",
+				text: "HTML5",
 				weight: 12
 			}, {
-				text: "grunt",
+				text: "Grunt",
 				weight: 5
 			}, {
-				text: "sass",
-				weight: 5
+				text: "Sass",
+				weight: 6
 			}, {
-				text: "react",
+				text: "React",
 				weight: 4
 			}, {
 				text: "AWS",
