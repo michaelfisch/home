@@ -360,7 +360,8 @@ nav.Tuner.Tuner__Audio.Tuner--initialized {
 }
 
 #contact-github-button {
-		color: #fff;
+		font-size: 2em;
+		vertical-align: middle;
 }
 
 #contact-mail-button {
