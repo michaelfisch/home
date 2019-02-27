@@ -473,7 +473,7 @@
 		fadeOutClass: 'typed-fade-out',
 		fadeOutDelay: 500, // milliseconds
 		// loop
-		loop: false,
+		loop: true,
 		// false = infinite
 		loopCount: false,
 		// show cursor
