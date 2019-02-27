@@ -363,6 +363,10 @@ nav.Tuner.Tuner__Audio.Tuner--initialized {
 		color: #fff;
 }
 
+#contact-mail-button {
+		font-size: 2em;
+}
+
 /*** footer starts ***/
 #footer {
 		padding: 5em 4em 2em;
