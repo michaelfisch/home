@@ -364,7 +364,7 @@ nav.Tuner.Tuner__Audio.Tuner--initialized {
 		color: #fff;
 } */
 
-#contact-github-button::after {
+#contact-github-button:hover {
 		color: #fc7252;
 }
 
