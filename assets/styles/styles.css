@@ -125,6 +125,7 @@ nav.Tuner.Tuner__Audio.Tuner--initialized {
 
 .home .js-scroll-trigger {
 		margin: 2rem;
+		scroll-behavior: smooth;
 }
 
 /*** About Section ***/

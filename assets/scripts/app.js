@@ -87,15 +87,16 @@ const Portfolio = function() {
 		});
 	}
 
-	function scrollTopFunction() {
-  document.body.scrollTop = 0; // For Safari
-  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-}
+	function() {
+		$('a[href=#top]').click(function(){
+        $('html, body').animate({scrollTop:0}, 'slow');
+        return false;
+    });
+	}
 
 	return {
 		displayWordCloud: displayWordCloud,
-		typeAnimation: typeAnimation,
-		scrollTopFunction: scrollTopFunction
+		typeAnimation: typeAnimation
 	}
 
 }();
