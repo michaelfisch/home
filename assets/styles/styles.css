@@ -359,6 +359,14 @@ nav.Tuner.Tuner__Audio.Tuner--initialized {
 		margin-top: 2em;
 }
 
+#contact-github-button::before {
+		color: #fff;
+}
+
+#contact-github-button::after {
+		color: #fc7252;
+}
+
 #contact-github-button {
 		font-size: 2em;
 		vertical-align: middle;
