@@ -308,6 +308,10 @@ h1, h2, h3, h4, h5, h6 {
 		vertical-align: middle;
 }
 
+#contact-github-button {
+		color: #fff;
+}
+
 /*** footer starts ***/
 #footer {
 		padding: 5em 4em 2em;
