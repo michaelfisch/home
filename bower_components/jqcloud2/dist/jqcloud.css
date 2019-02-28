@@ -9,6 +9,8 @@
 div.jqcloud {
   overflow: hidden;
   position: relative;
+	background-image: radial-gradient(circle 50em, #fc7252, #0ff0, #0ff0);
+	top: 7em;
 }
 
 div.jqcloud span {
@@ -20,6 +22,7 @@ div.jqcloud {
   font-family: "Helvetica", "Arial", sans-serif;
   font-size: 10px;
   line-height: normal;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 div.jqcloud a {

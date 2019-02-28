@@ -39,47 +39,47 @@ $('a[href*="#"]')
 	function makeWords() {
 		var words = [
 			{
-				text: "Ruby/Rails",
-				weight: 10
+				text: "Ruby/Rails", // Text you want to appear as an item in bubble
+				weight: 6 // Weight of text, use scale of 1-10
 			}, {
 				text: "CSS3",
-				weight: 12
-			}, {
-				text: "JavaScript",
-				weight: 12
-			}, {
-				text: "jQuery",
 				weight: 9
 			}, {
+				text: "JavaScript",
+				weight: 8
+			}, {
+				text: "jQuery",
+				weight: 8
+			}, {
 				text: "Git",
-				weight: 15
+				weight: 10
 			}, {
 				text: "Python",
-				weight: 4
+				weight: 2
 			}, {
 				text: "Ember",
 				weight: 4
 			}, {
 				text: "Heroku",
-				weight: 8
+				weight: 7
 			}, {
 				text: "HTML5",
-				weight: 12
+				weight: 9
 			}, {
 				text: "Grunt",
 				weight: 5
 			}, {
 				text: "Sass",
-				weight: 6
+				weight: 5
 			}, {
 				text: "React",
-				weight: 4
+				weight: 2
 			}, {
 				text: "AWS",
-				weight: 4
+				weight: 5
 			}, {
 				text: "MongoDB",
-				weight: 4
+				weight: 6
 			}
 		];
 		return words;
