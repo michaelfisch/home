@@ -337,6 +337,10 @@ h1, h2, h3, h4, h5, h6 {
 		padding-bottom: 3px;
 }
 
+.thank-you {
+		padding-top: 2em;
+}
+
 /*** footer starts ***/
 #footer {
 		padding: 5em 4em 2em;
