@@ -84,20 +84,21 @@ h1, h2, h3, h4, h5, h6 {
 
 /*** About Section ***/
 #about {
-		margin-top: 10em;
+		margin: 4em 0 2em 0;
 		border: 1px solid #eee;
 		background-color: white;
 		padding-bottom: 1em;
 }
 
 #about img {
-		max-width: 15em;
+		max-width: 20em;
 		position: relative;
-		bottom: 7.5em;
+		bottom: 10.5em;
+		right: 2em;
 }
 
 #about .details {
-		margin-top: -2em;
+		margin: 4em -15em 4em -15em;
 }
 
 #about h2 {
@@ -128,6 +129,8 @@ h1, h2, h3, h4, h5, h6 {
 		border: 2px solid rgba(255, 103, 68, 0.91);
 		border-radius: 50px;
 		background: white;
+		position: relative;
+		bottom: 3em;
 }
 
 .cta .cta-button:hover, .cta .cta-button:focus {
