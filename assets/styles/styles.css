@@ -63,52 +63,6 @@ h1, h2, h3, h4, h5, h6 {
 	background: #212332;
 } */
 
-/* PANDORA NAVBAR */
-nav.Tuner.Tuner__Audio.Tuner--initialized {
-}
-nav.Tuner.Tuner__Audio.Tuner--initialized {
-}
-nav.Tuner.Tuner__Audio.Tuner--initialized {
-}
-.Tuner--initialized {
-    visibility: visible;
-    opacity: 1;
-}
-.Tuner {
-    transition: opacity .4s ease-out,background-color .4s ease-out;
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-    height: 100%;
-    position: relative;
-    background-color: #224099;
-    color: #fff;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    visibility: hidden;
-    opacity: 0;
-}
-.Tuner--initialized {
-    visibility: visible;
-    opacity: 1;
-}
-.Tuner {
-    transition: opacity .4s ease-out,background-color .4s ease-out;
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-    height: 100%;
-    position: relative;
-    background-color: #224099;
-    color: #fff;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    visibility: hidden;
-    opacity: 0;
-}
-
 /*** thin bar ***/
 .home {
 		background-color: #fff;
@@ -354,28 +308,23 @@ nav.Tuner.Tuner__Audio.Tuner--initialized {
 #contact-linkedin-button {
 		font-size: 2em;
 		vertical-align: middle;
+		padding: 1em;
 }
 
 #contact-github-text {
 		margin-top: 2em;
 }
 
-/* #contact-github-button::before {
-		color: #fff;
-} */
-
-#contact-github-button::before {
-		color: #fff;
-}
-
 #contact-github-button {
 		font-size: 2em;
 		vertical-align: middle;
+		padding: 1em;
 }
 
 #contact-mail-button {
 		font-size: 2em;
 		vertical-align: middle;
+		padding: 1em;
 }
 
 /*** footer starts ***/
