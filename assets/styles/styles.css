@@ -253,8 +253,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /*** coding ***/
 #coding {
-	  margin: 3em 0 10em 0;
-		padding: 6em 4em 3em;
+		margin: 5em 0 10em;
+		padding: 6em 4em 5em;
 }
 
 #coding h2 {
@@ -309,26 +309,32 @@ h1, h2, h3, h4, h5, h6 {
 		margin-top: 2em;
 }
 
-#contact-linkedin-button {
+#contact-linkedin-btn {
 		font-size: 2em;
 		vertical-align: middle;
-		padding: 1em;
+		padding-bottom: 3px;
 }
 
 #contact-github-text {
 		margin-top: 2em;
 }
 
-#contact-github-button {
+#contact-github-btn {
 		font-size: 2em;
 		vertical-align: middle;
-		padding: 1em;
+		padding-bottom: 3px;
 }
 
-#contact-mail-button {
+#contact-mail-btn {
 		font-size: 2em;
 		vertical-align: middle;
-		padding: 1em;
+		padding-bottom: 3px;
+}
+
+#contact-codewars-btn {
+		font-size: 2em;
+		vertical-align: middle;
+		padding-bottom: 3px;
 }
 
 /*** footer starts ***/
