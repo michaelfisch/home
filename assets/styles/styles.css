@@ -309,29 +309,12 @@ h1, h2, h3, h4, h5, h6 {
 		margin-top: 2em;
 }
 
-#contact-linkedin-btn {
-		font-size: 2em;
-		vertical-align: middle;
-		padding-bottom: 3px;
-}
 
 #contact-github-text {
 		margin-top: 2em;
 }
 
-#contact-github-btn {
-		font-size: 2em;
-		vertical-align: middle;
-		padding-bottom: 3px;
-}
-
-#contact-mail-btn {
-		font-size: 2em;
-		vertical-align: middle;
-		padding-bottom: 3px;
-}
-
-#contact-codewars-btn {
+.contact-btn {
 		font-size: 2em;
 		vertical-align: middle;
 		padding-bottom: 3px;
