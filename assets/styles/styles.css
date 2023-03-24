@@ -194,33 +194,33 @@ h1, h2, h3, h4, h5, h6 {
 
 /*** Linkedin Section ***/
 
-#inkedin {
+#linkedin {
 		margin: 4em 0 2em 0;
 		border: 1px solid #eee;
 		background-color: white;
 		padding-bottom: 1em;
 }
 
-#inkedin .details {
+#linkedin .details {
 		margin: 4em -15em 4em -15em;
 }
 
-#inkedin h2 {
+#linkedin h2 {
 		color: #646464;
 		font-size: 3.8em;
 		padding-bottom: 1em;
 }
 
-#inkedin span {
+#linkedin span {
 		font-weight: 300;
 		font-size: .7em;
 }
 
-#inkedin h5 {
+#linkedin h5 {
 		color: #8A8A8B;
 }
 
-#inkedin p {
+#linkedin p {
 		margin-top: 1em;
 		color: #646464;
 		font-family: "roboto";
