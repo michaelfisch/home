@@ -195,71 +195,62 @@ h1, h2, h3, h4, h5, h6 {
 /*** Linkedin Section ***/
 
 #linkedin {
-		margin: 4em 0 2em 0;
-		border: 1px solid #eee;
-		background-color: #fc7354;
-		padding-top: 3em
-		padding-bottom: 3em;
-}
-
-#linkedin .details {
-		margin: 4em -15em 4em -15em;
+		padding: 6em 4em 3em;
+		background-color: #fff;
 }
 
 #linkedin h2 {
-		color: #646464;
-		font-size: 3.8em;
-		padding-bottom: 1em;
+		color: #FF6945;
+		margin-bottom: .7em;
 }
 
-#linkedin span {
-		font-weight: 300;
-		font-size: .7em;
+#linkedin .tag-line {
+		color: #767779;
+		font-size: 1.4em;
+		margin-bottom: 4em;
 }
 
-#linkedin h5 {
-		color: #8A8A8B;
+#linkedin .work-row {
+		margin-bottom: 5.5em;
 }
 
-#linkedin p {
-		margin-top: 1em;
-		color: #646464;
-		font-family: "roboto";
-		font-weight: 300;
-}
-
-.cta .cta-button {
-		color: #cc4b37;
+.details h3 {
+		color: #738182;
 		text-transform: uppercase;
-		border: 2px solid rgba(255, 103, 68, 0.91);
-		border-radius: 50px;
-		background: white;
-		position: relative;
-		bottom: 3em;
 }
 
-.cta .cta-button:hover, .cta .cta-button:focus {
-		box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
-		background-color: rgba(255, 103, 68, 0.91);
-		color: white;
+.details .platform {
+		font-size: 0.8em;
+		text-transform: uppercase;
+		margin: 2em 0 -0.1em;
+		font-family: "Maven pro", sans-serif;
+		font-weight: 500;
+		color: #ff7654;
 }
 
-#inkedin i {
-		margin-top: 2em;
+.details i {
+		color: #ff7654;
+		margin-right: 1em;
 }
 
-.fa {
+.details p {
+		color: #738182;
+		font-family: "Maven pro", sans-serif;
+		font-weight: 500;
 		font-size: 1.2em;
-		padding: 0.1em 0.4em;
-		color: #8a8a8a;
+		margin-bottom: 1.8em;
 }
 
-.fa:hover {
-		cursor: pointer;
+.details a, .details a:link, .details a:active {
+		color: rgba(255, 103, 68, 0.91);
+		border: 2px solid rgba(255, 103, 68, 0.91) !important;
+		background-color: #fff;
 }
 
-.linkedinbadge div {
-	 display: inline-flex
+.details a:hover, .details a:focus {
+		/*box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);*/
+		background-color: rgba(255, 103, 68, 0.91) !important;
+		color: #fff;
 }
 
 /*** work ***/
