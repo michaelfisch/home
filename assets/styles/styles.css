@@ -193,12 +193,72 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /*** Linkedin Section ***/
-#linkedin {
 
+#inkedin {
+		margin: 4em 0 2em 0;
+		border: 1px solid #eee;
+		background-color: white;
+		padding-bottom: 1em;
+}
+
+#inkedin .details {
+		margin: 4em -15em 4em -15em;
+}
+
+#inkedin h2 {
+		color: #646464;
+		font-size: 3.8em;
+		padding-bottom: 1em;
+}
+
+#inkedin span {
+		font-weight: 300;
+		font-size: .7em;
+}
+
+#inkedin h5 {
+		color: #8A8A8B;
+}
+
+#inkedin p {
+		margin-top: 1em;
+		color: #646464;
+		font-family: "roboto";
+		font-weight: 300;
+}
+
+.cta .cta-button {
+		color: #cc4b37;
+		text-transform: uppercase;
+		border: 2px solid rgba(255, 103, 68, 0.91);
+		border-radius: 50px;
+		background: white;
+		position: relative;
+		bottom: 3em;
+}
+
+.cta .cta-button:hover, .cta .cta-button:focus {
+		box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
+		background-color: rgba(255, 103, 68, 0.91);
+		color: white;
+}
+
+#inkedin i {
+		margin-top: 2em;
+}
+
+.fa {
+		font-size: 1.2em;
+		padding: 0.1em 0.4em;
+		color: #8a8a8a;
+}
+
+.fa:hover {
+		cursor: pointer;
 }
 
 .linkedinbadge div {
-	display: inline-flex
+	 display: inline-flex
 }
 
 /*** work ***/
