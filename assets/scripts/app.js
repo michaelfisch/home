@@ -36,7 +36,7 @@ $('a[href*="#"]')
     }
   });
 
-				const images = document.querySelectorAll('#background-images img');
+				const images = document.querySelectorAll('#about image-container img');
 			let currentImageIndex = 0;
 
 			function nextImage() {
