@@ -23,6 +23,10 @@ h1, h2, h3, h4, h5, h6 {
 		margin-bottom: -50px;
 }
 
+.img-portrait {
+	display: block;
+}
+
 .my-button {
 		font-size: 1em;
 		line-height: normal;
