@@ -36,7 +36,7 @@ $('a[href*="#"]')
     }
   });
 
-		<!--- PINWHEEL FUNCTION --->
+		// PINWHEEL FUNCTION
 		function createPinwheel(images) {
 			const pinwheel = document.createElement('div');
 				pinwheel.className = 'pinwheel';
