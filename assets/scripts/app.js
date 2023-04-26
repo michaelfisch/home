@@ -36,26 +36,6 @@ $('a[href*="#"]')
     }
   });
 
-	// Pinwheel image function
-	const images = document.querySelectorAll("#pinwheel img");
-
-let angle = 0;
-let delta = 360 / images.length;
-
-images.forEach((image, i) => {
-  angle = i * delta;
-  image.style.transform = `rotate(${angle}deg)`;
-  image.addEventListener("click", () => {
-    let currentAngle = angle % 360;
-    let scrollAmount = currentAngle - delta / 2;
-    document.getElementById("pinwheel").scrollBy({
-      left: scrollAmount,
-      behavior: "smooth"
-    });
-  });
-});
-
-	
 	
 	function makeWords() {
 		var words = [
