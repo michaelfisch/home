@@ -15,29 +15,6 @@ h1, h2, h3, h4, h5, h6 {
 		background: #E3E3E3;
 }
 
-.pinwheel {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  overflow: scroll;
-  white-space: nowrap;
-  width: 100%;
-  height: 300px;
-}
-
-.pinwheel img {
-  width: 90%;
-  height: 90%;
-  margin: 0 10px;
-  cursor: pointer;
-  transition: transform 0.2s ease-in-out;
-}
-
-.pinwheel img:hover {
-  transform: scale(1.1);
-}
-
-
 .img-circle {
 		border-radius: 50%;
 		display: block;
@@ -120,6 +97,39 @@ h1, h2, h3, h4, h5, h6 {
 		padding-bottom: 1em;
 }
 
+.images {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.image-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-out {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
 #about img {
 		max-width: 20em;
 		position: relative;
