@@ -35,28 +35,6 @@ $('a[href*="#"]')
       }
     }
   });
-
-				const images = document.querySelectorAll('#background-images img');
-let currentImageIndex = 0;
-
-function nextImage() {
-  const currentImage = images[currentImageIndex];
-  currentImage.style.animation = 'fade-out 5s forwards';
-
-  currentImageIndex++;
-  if (currentImageIndex >= images.length) {
-    currentImageIndex = 0;
-  }
-
-  const nextImage = images[currentImageIndex];
-  nextImage.style.animation = 'fade-in 5s forwards';
-
-  setTimeout(nextImage, 4000);
-}
-
-nextImage();
-setInterval(nextImage, 5000);
-	
 	
 	function makeWords() {
 		var words = [
