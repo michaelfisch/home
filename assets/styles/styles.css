@@ -89,15 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 		scroll-behavior: smooth;
 }
 
-/*** About Section ***/
-#about {
-		margin: 4em 0 2em 0;
-		border: 1px solid #eee;
-		background-color: white;
-		padding-bottom: 1em;
-}
-
-.images {
+#background-images {
   position: fixed;
   top: 0;
   left: 0;
@@ -130,6 +122,16 @@ h1, h2, h3, h4, h5, h6 {
     opacity: 0;
   }
 }
+
+
+/*** About Section ***/
+#about {
+		margin: 4em 0 2em 0;
+		border: 1px solid #eee;
+		background-color: white;
+		padding-bottom: 1em;
+}
+
 #about img {
 		max-width: 20em;
 		position: relative;
