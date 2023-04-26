@@ -36,34 +36,27 @@ $('a[href*="#"]')
     }
   });
 
-		// PINWHEEL FUNCTION
-		function createPinwheel(images) {
-			const pinwheel = document.createElement('div');
-				pinwheel.className = 'pinwheel';
-					for (let i = 0; i < images.length; i++) {
-						const img = document.createElement('img');
-						img.src = images[i];
-						img.className = 'pinwheel-image';
-						pinwheel.appendChild(img);
-					}
+				const images = document.querySelectorAll('#background-images img');
+			let currentImageIndex = 0;
 
-			let angle = 0;
-			let step = 360 / images.length;
+			function nextImage() {
+				const currentImage = images[currentImageIndex];
+				currentImage.style.animation = 'fade-out 5s forwards';
 
-			pinwheel.addEventListener('wheel', event => {
-				event.preventDefault();
-				angle += event.deltaY;
+				currentImageIndex++;
+				if (currentImageIndex >= images.length) {
+					currentImageIndex = 0;
+				}
 
-				pinwheel.style.transform = `rotate(${angle}deg)`;
-			});
+				const nextImage = images[currentImageIndex];
+				nextImage.style.animation = 'fade-in 5s forwards';
 
-			return pinwheel;
-}
-		function displayPinwheel(images) {
-		const pinwheel = createPinwheel(images);
-		const container = document.querySelector('.pinwheel-container');
-		container.appendChild(pinwheel);
-		}
+				setTimeout(nextImage, 4000);
+			}
+
+			nextImage();
+			setInterval(nextImage, 5000);
+	
 	
 	function makeWords() {
 		var words = [
