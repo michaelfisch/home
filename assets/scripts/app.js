@@ -36,6 +36,34 @@ $('a[href*="#"]')
     }
   });
 
+		<!-- PINWHEEL FUNCTION -->
+		function createPinwheel(images) {
+			const pinwheel = document.createElement('div');
+				pinwheel.className = 'pinwheel';
+					for (let i = 0; i < images.length; i++) {
+						const img = document.createElement('img');
+						img.src = images[i];
+						img.className = 'pinwheel-image';
+						pinwheel.appendChild(img);
+					}
+
+			let angle = 0;
+			let step = 360 / images.length;
+
+			pinwheel.addEventListener('wheel', event => {
+				event.preventDefault();
+				angle += event.deltaY;
+
+				pinwheel.style.transform = `rotate(${angle}deg)`;
+			});
+
+			return pinwheel;
+}
+		function displayPinwheel(images) {
+		const pinwheel = createPinwheel(images);
+		const container = document.querySelector('.pinwheel-container');
+		container.appendChild(pinwheel);
+		}
 	
 	function makeWords() {
 		var words = [
