@@ -50,4 +50,5 @@ IT Manager (Jan ’18 – Jan ’19)
 Launched online presence with WiX, company communications. 
 Managed SEO and PPC campaigns using Google Analytics and WiX tools.  
 Assisted executive team with technical troubleshooting and guidance for digital marketing efforts.
+
 ![image](https://user-images.githubusercontent.com/33406109/236474548-c9ffb7fb-1616-4873-a4d1-4b3310554fbe.png)
