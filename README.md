@@ -9,12 +9,15 @@ Michael Fisch
 Customer Success Professional
 
 Executive Summary:
+
 I am a highly experienced remote customer success professional with a proven track record in the Technology, Travel, and Crypto/Finance industries. Throughout my career, I have delivered exceptional inbound support while consistently achieving high- performance KPIs. I have also played a key role in cross-team collaborations, contributing to outbound marketing campaigns that have generated significant business outcomes. During my tenure with Coinbase's top-ranked support team, Coinbase One, I provided white- glove-service and resolved complex support escalations across Crypto, Payments, Access, Risk & Safety operations. Additionally, I have been instrumental in driving internal initiatives aimed at increasing operational efficiencies. I have developed comprehensive flowcharts and playbooks that effectively break down intricate policies and procedures. Overall, I bring a wealth of expertise in remote customer success management, team leadership, and project management, enabling me to make a meaningful impact on business growth and customer satisfaction.
 
 Tech Stack:
+
 Google Suite, Apple Suite, Microsoft Office, Salesforce Lightning, TalkDesk, LiveChat, LucidCharts, Slack, Thompson Research (CLEAR), Chrome River, Ironclad, DocuSign, Citrix Cloud, WiX, Prezi, PowerPoint, Looker, Excel (Pivot tables), Alfred.
 
 Education:
+
 General Assembly (Boston, MA) – Web Development Immersive Trainee (Mar – Jun ‘18)
 Stack: Git/Terminal, HTML/ CSS, JavaScript, Ruby, SQL
 Backend environments: AWS, Heroku, MongoDB.
