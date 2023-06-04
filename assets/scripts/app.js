@@ -40,49 +40,49 @@ $('a[href*="#"]')
 		var words = [
 			{
 				text: "Ruby/Rails", // Text you want to appear as an item in bubble
-				weight: 6 // Weight of text, use scale of 1-10
+				weight: 4 // Weight of text, use scale of 1-10
 			}, {
 				text: "HTML/CSS",
-				weight: 9
+				weight: 6
 			}, {
 				text: "JavaScript",
-				weight: 8
+				weight: 5
 			}, {
 				text: "Git/Terminal)",
-				weight: 8
+				weight: 6
 			}, {
 				text: "SalesForce",
-				weight: 10
+				weight: 9
 			}, {
 				text: "Google Suite",
-				weight: 2
+				weight: 10
 			}, {
 				text: "Microsoft Office",
-				weight: 4
+				weight: 10
 			}, {
 				text: "Alfred",
 				weight: 7
 			}, {
 				text: "LucidCharts",
-				weight: 9
+				weight: 7
 			}, {
 				text: "Talk Desk",
-				weight: 5
+				weight: 7
 			}, {
 				text: "Live Chat",
-				weight: 5
+				weight: 7
 			}, {
 				text: "Crypto/Blockchain",
-				weight: 2
+				weight: 7
 			}, {
 				text: "Call Center Ops",
-				weight: 5
+				weight: 7
 			}, {
 				text: "Sales",
 				weight: 6
 			}, {
 				text: "Support Ticket Mgt",
-				weight: 6
+				weight: 7
 			}
 			
 		];
