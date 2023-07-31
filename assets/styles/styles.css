@@ -445,6 +445,10 @@ textarea {
 	z-index: 0;
 }
 
-.crop .fiverr-icon {
+.crop {
+	z-index: 0;
+}
+
+.fiverr-icon {
 	z-index: 0;
 }
