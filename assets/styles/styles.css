@@ -429,3 +429,14 @@ textarea {
 		width: 33rem;
 		height: 6rem;
 }
+
+ /* Add rounded corners to the outer container */
+  .fiverr-seller-widget {
+    border-radius: 10px; /* Adjust the value to control the roundness */
+    overflow: hidden; /* This ensures content within the container respects the rounding */
+  }
+
+  /* Add rounded corners to the inner content (optional) */
+  .fiverr-seller-content {
+    border-radius: 10px; /* Adjust the value to control the roundness */
+  }
