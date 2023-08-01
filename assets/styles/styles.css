@@ -434,11 +434,13 @@ textarea {
   .fiverr-seller-widget {
     border-radius: 50px; /* Adjust the value to control the roundness */
     overflow: hidden; /* This ensures content within the container respects the rounding */
+		z-index: 0;
   }
 
   /* Add rounded corners to the inner content (optional) */
   .fiverr-seller-content {
     border-radius: 50px; /* Adjust the value to control the roundness */
+		z-index: 0;
   }
 
 .fiverr-profile-img {
