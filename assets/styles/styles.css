@@ -429,7 +429,6 @@ textarea {
 		width: 33rem;
 		height: 6rem;
 }
-
  /* Add rounded corners to the outer container */
   .fiverr-seller-widget {
     border-radius: 50px; /* Adjust the value to control the roundness */
@@ -443,6 +442,10 @@ textarea {
 		z-index: 0;
   }
 
+.fiverr-icon {
+	z-index: 0;
+}
+
 .fiverr-profile-img {
 	z-index: 0;
 }
@@ -451,6 +454,4 @@ textarea {
 	z-index: 0;
 }
 
-.fiverr-icon {
-	z-index: 0;
-}
+
