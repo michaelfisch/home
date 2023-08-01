@@ -113,7 +113,7 @@ $('a[href*="#"]')
 	function typeAnimation() {
 		Typed.new("#writing-text", {
 			strings: [
-				"Customer Support Professional", "Experience in Technology, Travel & Crypto", "#OpenToWork"
+				"Customer Support Professional", "Experience in Technology, Travel & Crypto/Finance", "#OpenToWork"
 			],
 			// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
 			stringsElement: null,
