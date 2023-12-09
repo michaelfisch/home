@@ -3,22 +3,22 @@
 Welcome to my portfolio website ReadMe:
 
 Just in case you can't access my resume, I'm including the raw text below.
-You can visit my GitHub profile and linkedin profile through the link under Contact info.
+You can visit my GitHub profile and LinkedIn profile through the link under Contact info.
 
 Michael Fisch
-Customer Success Professional
+Customer Support Professional
 
 Executive Summary:
 
-I am a highly experienced remote customer success professional with a proven track record in the Technology, Travel, and Crypto/Finance industries. Throughout my career, I have delivered exceptional inbound support while consistently achieving high- performance KPIs. I have also played a key role in cross-team collaborations, contributing to outbound marketing campaigns that have generated significant business outcomes. During my tenure with Coinbase's top-ranked support team, Coinbase One, I provided white- glove-service and resolved complex support escalations across Crypto, Payments, Access, Risk & Safety operations. Additionally, I have been instrumental in driving internal initiatives aimed at increasing operational efficiencies. I have developed comprehensive flowcharts and playbooks that effectively break down intricate policies and procedures. Overall, I bring a wealth of expertise in remote customer success management, team leadership, and project management, enabling me to make a meaningful impact on business growth and customer satisfaction.
+I'm a seasoned customer support specialist with experience in Technology, Travel, and Crypto/Finance, including 4+ years of contact center experience. I bring top-notch skills in customer relationship management software, achieving high-performance KPIs, triaging and resolving customer escalations, and being a knowledgeable resource for support teams. Furthermore, I leverage my skills in project management to lead internal initiatives aimed at enhancing operational efficiencies. In this capacity, I create compelling process flowcharts to clearly illustrate complex policies and procedures. Overall, my extensive experience in support services equips me with the skills needed to excel in any customer support-focused role.
 
 Tech Stack:
 
-Google Suite, Apple Suite, Microsoft Office, Salesforce Lightning, TalkDesk, LiveChat, LucidCharts, Slack, Thompson Research (CLEAR), Chrome River, Ironclad, DocuSign, Citrix Cloud, WiX, Prezi, PowerPoint, Looker, Excel (Pivot tables), Alfred.
+Google Suite, Apple Suite, Microsoft Office, Salesforce Lightning, TalkDesk, LiveChat, LucidCharts, Slack, Thompson Research (CLEAR), Chrome River, Ironclad, DocuSign, Citrix Cloud, WiX, Prezi, PowerPoint, Looker, Excel (Pivot tables), Alfred Snippets & Workflows, AppleScript
 
 Education:
 
-General Assembly (Boston, MA) – Web Development Immersive Trainee (Mar – Jun ‘18)
+General Assembly (Boston, MA) – Web Development Immersive Trainee (Mar-Jun ‘18)
 Stack: Git/Terminal, HTML/ CSS, JavaScript, Ruby, SQL
 Backend environments: AWS, Heroku, MongoDB.
 Bentley University (Waltham, MA) – Bachelor of Science – Marketing, Minor in Psychology (Class of 2012)
