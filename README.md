@@ -1,4 +1,4 @@
-## Michael Fisch - Customer Success Specialist
+## Michael Fisch - Onboarding Support Specialist
 
 Welcome to my portfolio website ReadMe:
 
