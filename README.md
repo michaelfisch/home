@@ -1,4 +1,4 @@
-## Michael Fisch - Onboarding Support Specialist
+## Michael Fisch - Relationship Banker
 
 Welcome to my portfolio website ReadMe:
 
@@ -6,13 +6,13 @@ Just in case you can't access my resume, I'm including the raw text below.
 You can visit my GitHub profile and LinkedIn profile through the link under Contact info.
 
 Michael Fisch
-Customer Support Professional
+Relationship Banker
 
 Executive Summary:
 
-Greetings! I'm a seasoned onboarding support specialist with experience in Technology, Travel, and Fintech, including 5 years of contact center and remote support experience. I bring top-notch skills in customer relationship management software, achieving high-performance KPIs, triaging and resolving customer escalations, and being a knowledgeable resource for support teams. 
+I'm a Relationship Banker at Bank of America, where I provide personalized financial solutions and exceptional service to our clients. With over six years of experience in customer support roles across various industries, I have developed strong competencies in customer relationship management (CRM) software, key performance indicators (KPIs), escalation resolution, and support team leadership.
 
-Furthermore, I leverage my skills in project management to lead internal initiatives aimed at enhancing operational efficiencies. In this capacity, I’ve created compelling process flowcharts and diagrams, illustrating complex policies and procedures. Overall, my extensive experience in support services equips me with the skills needed to excel in any onboarding support-focused role.
+Additionally, I have a passion for technology and innovation, which led me to pursue a Web Development Immersive course at General Assembly and a Twilio Programmable Messaging and Voice Professional Certificate. These credentials enable me to leverage the power of cloud communications and web development to enhance customer engagement and satisfaction. My goal is to apply my skills and knowledge to create value for Bank of America and our clients.
 
 Tech Stack:
 
@@ -27,7 +27,9 @@ Certification: Full Stack Web Development, 06/2018
 General Assembly - Boston, MA 
 •	Coding Languages: HTML/CSS, JavaScript, Ruby/Rails, SQL, Terminal/Commandline
 
-WORK HISTORY   	
+WORK HISTORY 
+
+Relationship Banker - Bank of America, 02/2024 - Present
     
 Consumer Service Representative - Coinbase 1, 10/2022 - 01/2023 
 Coinbase Inc – Needham, MA
