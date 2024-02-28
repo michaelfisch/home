@@ -39,7 +39,7 @@ $('a[href*="#"]')
 	function makeWords() {
 		var words = [
 			{
-				text: "Ruby/Rails", // Text you want to appear as an item in bubble
+				text: "Ruby/Rails", // Text you want to appear as an item in the bubble
 				weight: 4 // Weight of text, use scale of 1-10
 			}, {
 				text: "HTML/CSS",
@@ -113,7 +113,7 @@ $('a[href*="#"]')
 	function typeAnimation() {
 		Typed.new("#writing-text", {
 			strings: [
-				"Customer Support Professional", "Experience in Technology, Travel & Crypto/Finance", "#OpenToWork"
+				"Relationship Banker at Bank of America", "Experience in Technology, Travel, Crypto Support & Financial Services" 
 			],
 			// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
 			stringsElement: null,
