@@ -85,7 +85,7 @@ $('a[href*="#"]')
 				weight: 7
 			}, {
 				text: "Banking",
-				weight: 7
+				weight: 10
 			}, {
 				text: "WiX",
 				weight: 7
