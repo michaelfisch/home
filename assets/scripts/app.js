@@ -83,8 +83,13 @@ $('a[href*="#"]')
 			}, {
 				text: "Support Ticket Mgt",
 				weight: 7
+			}, {
+				text: "Banking",
+				weight: 7
+			}, {
+				text: "WiX",
+				weight: 7
 			}
-			
 		];
 		return words;
 	}
