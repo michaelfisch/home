@@ -1,4 +1,4 @@
-## Michael Fisch - Relationship Banker
+## Michael Fisch - Senior Banker
 
 Welcome to my portfolio website ReadMe:
 
@@ -6,13 +6,13 @@ Just in case you can't access my resume, I'm including the raw text below.
 You can visit my GitHub profile and LinkedIn profile through the link under Contact info.
 
 Michael Fisch
-Relationship Banker
+Senior Banker
 
 Executive Summary:
 
-I'm a Relationship Banker at Bank of America, where I provide personalized financial solutions and exceptional service to our clients. With over six years of experience in customer support roles across various industries, I have developed strong competencies in customer relationship management (CRM) software, key performance indicators (KPIs), escalation resolution, and support team leadership.
+I'm a Senior Banker at Bank of America, where I provide personalized financial solutions and exceptional service to our clients. Across various industries, I have developed strong competencies in sales, customer relationship management, escalation resolution, and support team leadership.
 
-Additionally, I have a passion for technology and innovation, which led me to pursue a Web Development Immersive course at General Assembly and a Twilio Programmable Messaging and Voice Professional Certificate. These credentials enable me to leverage the power of cloud communications and web development to enhance customer engagement and satisfaction. My goal is to apply my skills and knowledge to create value for Bank of America and our clients.
+Additionally, I have a passion for technology and innovation, which led me to pursue Web Development, including learning to code automations with Applescript. These experiences enable me to leverage the power of cloud communications and web development to enhance customer engagement and satisfaction. My goal is to apply my skills and knowledge to create value for Bank of America and our clients.I'm a Senior Banker at Bank of America, where I provide personalized financial solutions and exceptional service to our clients. Across various industries, I have developed strong competencies in sales, customer relationship management, escalation resolution, and support team leadership. Additionally, I have a passion for technology and innovation, which led me to pursue Web Development, including learning to code automations with Applescript. These experiences enable me to leverage the power of cloud communications and web development to enhance customer engagement and satisfaction. My goal is to apply my skills and knowledge to create value for Bank of America and our clients.
 
 Tech Stack:
 
@@ -29,7 +29,18 @@ General Assembly - Boston, MA
 
 WORK HISTORY 
 
-Relationship Banker - Bank of America, 02/2024 - Present
+Senior Banker - 09/2025 - Present
+Bank of America, Newton, MA
+ 
+Relationship Banker - 02/2024 - 09/2025
+Bank of America - Wabam, MA
+• Execute the bank's risk culture and strive for operational excellence.
+• Build relationships with clients to meet financial needs.
+• Follow established processes and guidelines in daily activities to do what is right for clients and the bank, adhering to all applicable laws and regulations.
+• Grow business knowledge and network by partnering with experts in small business, lending, and investments.
+• Manage financial center traffic, appointments, and outbound calls effectively.
+• Drive the client experience.
+• Manage cash responsibilities.
     
 Consumer Service Representative - Coinbase 1, 10/2022 - 01/2023 
 Coinbase Inc – Needham, MA
