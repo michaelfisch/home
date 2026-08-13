@@ -1,4 +1,4 @@
-## Michael Fisch - Senior Banker
+## Michael Fisch - Officer, Senior Banker
 
 Welcome to my portfolio website ReadMe:
 
@@ -6,11 +6,11 @@ Just in case you can't access my resume, I'm including the raw text below.
 You can visit my GitHub profile and LinkedIn profile through the link under Contact info.
 
 Michael Fisch
-Senior Banker
+Officer, Senior Banker
 
 Executive Summary:
 
-I'm a Senior Banker at Bank of America, where I provide personalized financial solutions and exceptional service to our clients. Across various industries, I have developed strong competencies in sales, customer relationship management, escalation resolution, and support team leadership.
+As an Officer and Senior Banker for Bank of America, where I provide personalized financial solutions and exceptional service to our clients. Across various industries, I have developed strong competencies in sales, customer relationship management, escalation resolution, and support team leadership.
 
 Additionally, I have a passion for technology and innovation, which led me to pursue Web Development, including learning to code automations with Applescript. These experiences enable me to leverage the power of cloud communications and web development to enhance customer engagement and satisfaction. My goal is to apply my skills and knowledge to create value for Bank of America and our clients.I'm a Senior Banker at Bank of America, where I provide personalized financial solutions and exceptional service to our clients. Across various industries, I have developed strong competencies in sales, customer relationship management, escalation resolution, and support team leadership. Additionally, I have a passion for technology and innovation, which led me to pursue Web Development, including learning to code automations with Applescript. These experiences enable me to leverage the power of cloud communications and web development to enhance customer engagement and satisfaction. My goal is to apply my skills and knowledge to create value for Bank of America and our clients.
 
@@ -29,8 +29,13 @@ General Assembly - Boston, MA
 
 WORK HISTORY 
 
-Senior Banker - 09/2025 - Present
-Bank of America, Newton, MA
+Officer, Senior Banker - 09/2025 - Present
+Bank of America, Needham, MA
+• Partners with teams to provide financial center clients with both consumer and small business solutions, services, and strategies when uncovering personal banking needs and helping clients navigate their unique life priorities.
+• Assists, educates, and trains clients on conducting simple transactions through self-service technologies
+• Leverages available resources, technologies, and processes to optimize the client experience and deliver operational excellence and accuracy
+• Adheres to established processes, laws, and guidelines in performing day-to-day activities, such as opening accounts, account maintenance, and Digital Assisted Shopping
+• Manages client interactions by taking the best course of action for the bank and its clients and abiding by all regulatory requirements
  
 Relationship Banker - 02/2024 - 09/2025
 Bank of America - Wabam, MA
